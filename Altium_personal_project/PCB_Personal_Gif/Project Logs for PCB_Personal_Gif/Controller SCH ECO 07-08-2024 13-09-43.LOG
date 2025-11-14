@@ -1,0 +1,5 @@
+Remove Pin=R14-2 From Net=XOUT
+Remove Pin=U1-21 From Net=XOUT
+Change Component Designator: OldDesignator=C? NewDesignator=C_11
+Modified Rule: Name=Schematic Routing Via Style
+Modified Rule: Name=Schematic Width Constraint

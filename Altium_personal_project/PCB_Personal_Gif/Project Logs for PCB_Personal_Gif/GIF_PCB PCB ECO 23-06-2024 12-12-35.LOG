@@ -1,0 +1,572 @@
+Added Component: Designator=*(SPKR_AS01508MS-SC11-WP-R)
+Added Component: Designator=C1(CAP 0402_1005)
+Add component (AddParameter): Name = "Applications"; Value = "Acoustic Noise Reduction"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "http://www.samsungsem.com/kr/support/product-search/mlcc/CL05A106MP8NUB8.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A106MP8NUB8/5961314"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "09/02/2024 20:04:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL05A106MP8NUB8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "1758"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "CL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-6830-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP 0402_1005)
+Add component (AddParameter): Name = "Applications"; Value = "Acoustic Noise Reduction"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "http://www.samsungsem.com/kr/support/product-search/mlcc/CL05A106MP8NUB8.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A106MP8NUB8/5961314"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "09/02/2024 20:04:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL05A106MP8NUB8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "1758"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "CL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-6830-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP 0402_1005)
+Add component (AddParameter): Name = "Applications"; Value = "Automotive, ESD Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0402C104K4RECAUTO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C104K4RECAUTO/8563695"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "09/02/2024 20:04:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104K4RECAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "1731"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "ESD SMD Auto X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-17167-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP 0402_1005)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155C71A105KE11-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM155C71A105KE11D/6606086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "09/02/2024 20:04:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM155C71A105KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "1749"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "GRM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-14457-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.024" (0.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP 0402_1005)
+Add component (AddParameter): Name = "Applications"; Value = "Automotive, ESD Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0402C104K4RECAUTO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C104K4RECAUTO/8563695"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "09/02/2024 20:04:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104K4RECAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "1731"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "ESD SMD Auto X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-17167-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP 0402_1005)
+Add component (AddParameter): Name = "Applications"; Value = "Automotive, ESD Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0402C104K4RECAUTO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C104K4RECAUTO/8563695"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "09/02/2024 20:04:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104K4RECAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "1731"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "ESD SMD Auto X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-17167-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP 0402_1005)
+Add component (AddParameter): Name = "Applications"; Value = "Automotive, ESD Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0402C104K4RECAUTO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C104K4RECAUTO/8563695"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "09/02/2024 20:04:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104K4RECAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "1731"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "ESD SMD Auto X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-17167-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP 0402_1005)
+Add component (AddParameter): Name = "Applications"; Value = "Automotive, ESD Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0402C104K4RECAUTO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C104K4RECAUTO/8563695"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "09/02/2024 20:04:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104K4RECAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "1731"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "ESD SMD Auto X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-17167-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP 0402_1005)
+Add component (AddParameter): Name = "Applications"; Value = "Automotive, ESD Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0402C104K4RECAUTO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C104K4RECAUTO/8563695"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "09/02/2024 20:04:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104K4RECAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "1731"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "ESD SMD Auto X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-17167-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "16V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP 0402_1005
+Add Component: Footprint Not Found CAP ALSMD 4.3MM H5.4MM
+Add Component: Footprint Not Found DO214AC SMA
+Add Component: Footprint Not Found LED 1206_3216 YELLOW
+Add Component: Footprint Not Found ST SOT-223
+Added Component: Designator=IC2(SON127P610X510X80-8N430X340)
+Added Component: Designator=IC3(ABM8-272-T3_ABR)
+Add Component: Footprint Not Found FCI USB 10118193-0001LF
+Added Component: Designator=J2(PHOENIX_1933189)
+Added Component: Designator=L1(COM-16347_SPK)
+Added Component: Designator=L2(COM-16347_SPK)
+Added Component: Designator=L3(COM-16347_SPK)
+Added Component: Designator=L4(COM-16347_SPK)
+Added Component: Designator=L5(COM-16347_SPK)
+Added Component: Designator=L6(COM-16347_SPK)
+Added Component: Designator=L7(COM-16347_SPK)
+Added Component: Designator=L8(COM-16347_SPK)
+Added Component: Designator=L9(COM-16347_SPK)
+Added Component: Designator=L10(COM-16347_SPK)
+Added Component: Designator=P1(D6R90_CNK)
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Add Component: Footprint Not Found RES 0402_1005
+Added Component: Designator=SC_1(NHD_NHD-0216K1Z-NSW-BBW-L)
+Added Component: Designator=U1(QFN56_7X7_RPI)
+Added Component: Designator=U2(SMT_X01-GS08_VIS)
+Added Component: Designator=U3(M08A_TEX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C2-2
+Added Pin To Net: NetName=3.3V Pin=C3-2
+Added Pin To Net: NetName=3.3V Pin=C4-2
+Added Pin To Net: NetName=3.3V Pin=C5-2
+Added Pin To Net: NetName=3.3V Pin=C6-2
+Added Pin To Net: NetName=3.3V Pin=C7-2
+Added Pin To Net: NetName=3.3V Pin=C8-2
+Added Pin To Net: NetName=3.3V Pin=C9-2
+Added Pin To Net: NetName=3.3V Pin=IC2-8
+Added Pin To Net: NetName=3.3V Pin=U1-1
+Added Pin To Net: NetName=3.3V Pin=U1-10
+Added Pin To Net: NetName=3.3V Pin=U1-22
+Added Pin To Net: NetName=3.3V Pin=U1-33
+Added Pin To Net: NetName=3.3V Pin=U1-42
+Added Pin To Net: NetName=3.3V Pin=U1-43
+Added Pin To Net: NetName=3.3V Pin=U1-44
+Added Pin To Net: NetName=3.3V Pin=U1-48
+Added Pin To Net: NetName=3.3V Pin=U1-49
+Added Pin To Net: NetName=3.3V Pin=U2-4
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=L1-1
+Added Pin To Net: NetName=5V Pin=L2-1
+Added Pin To Net: NetName=5V Pin=L3-1
+Added Pin To Net: NetName=5V Pin=L4-1
+Added Pin To Net: NetName=5V Pin=L5-1
+Added Pin To Net: NetName=5V Pin=L6-1
+Added Pin To Net: NetName=5V Pin=L7-1
+Added Pin To Net: NetName=5V Pin=L8-1
+Added Pin To Net: NetName=5V Pin=L9-1
+Added Pin To Net: NetName=5V Pin=L10-1
+Added Pin To Net: NetName=5V Pin=SC_1-2_1
+Added Pin To Net: NetName=5V Pin=SC_1-2_2
+Added Pin To Net: NetName=5V Pin=U3-6
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=*-N
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=IC2-9
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=GND Pin=IC3-4
+Added Pin To Net: NetName=GND Pin=J2-01
+Added Pin To Net: NetName=GND Pin=L1-3
+Added Pin To Net: NetName=GND Pin=L2-3
+Added Pin To Net: NetName=GND Pin=L3-3
+Added Pin To Net: NetName=GND Pin=L4-3
+Added Pin To Net: NetName=GND Pin=L5-3
+Added Pin To Net: NetName=GND Pin=L6-3
+Added Pin To Net: NetName=GND Pin=L7-3
+Added Pin To Net: NetName=GND Pin=L8-3
+Added Pin To Net: NetName=GND Pin=L9-3
+Added Pin To Net: NetName=GND Pin=L10-3
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=SC_1-1_1
+Added Pin To Net: NetName=GND Pin=SC_1-1_2
+Added Pin To Net: NetName=GND Pin=SC_1-16_1
+Added Pin To Net: NetName=GND Pin=SC_1-16_2
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-57
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO11 Pin=U1-14
+Added Net: Name=GPIO11
+Added Pin To Net: NetName=GPIO13 Pin=U1-16
+Added Net: Name=GPIO13
+Added Pin To Net: NetName=GPIO15 Pin=L1-4
+Added Pin To Net: NetName=GPIO15 Pin=U1-18
+Added Net: Name=GPIO15
+Added Pin To Net: NetName=GPIO16 Pin=SC_1-6_1
+Added Pin To Net: NetName=GPIO16 Pin=SC_1-6_2
+Added Pin To Net: NetName=GPIO16 Pin=U1-27
+Added Net: Name=GPIO16
+Added Pin To Net: NetName=GPIO17 Pin=SC_1-4_1
+Added Pin To Net: NetName=GPIO17 Pin=SC_1-4_2
+Added Pin To Net: NetName=GPIO17 Pin=U1-28
+Added Net: Name=GPIO17
+Added Pin To Net: NetName=GPIO18 Pin=SC_1-5_1
+Added Pin To Net: NetName=GPIO18 Pin=SC_1-5_2
+Added Pin To Net: NetName=GPIO18 Pin=U1-29
+Added Net: Name=GPIO18
+Added Pin To Net: NetName=GPIO19 Pin=SC_1-7_1
+Added Pin To Net: NetName=GPIO19 Pin=SC_1-7_2
+Added Pin To Net: NetName=GPIO19 Pin=U1-30
+Added Net: Name=GPIO19
+Added Pin To Net: NetName=GPIO20 Pin=SC_1-8_1
+Added Pin To Net: NetName=GPIO20 Pin=SC_1-8_2
+Added Pin To Net: NetName=GPIO20 Pin=U1-31
+Added Net: Name=GPIO20
+Added Pin To Net: NetName=GPIO21 Pin=SC_1-9_1
+Added Pin To Net: NetName=GPIO21 Pin=SC_1-9_2
+Added Pin To Net: NetName=GPIO21 Pin=U1-32
+Added Net: Name=GPIO21
+Added Pin To Net: NetName=GPIO22 Pin=SC_1-10_1
+Added Pin To Net: NetName=GPIO22 Pin=SC_1-10_2
+Added Pin To Net: NetName=GPIO22 Pin=U1-34
+Added Net: Name=GPIO22
+Added Pin To Net: NetName=GPIO23 Pin=SC_1-11_1
+Added Pin To Net: NetName=GPIO23 Pin=SC_1-11_2
+Added Pin To Net: NetName=GPIO23 Pin=U1-35
+Added Net: Name=GPIO23
+Added Pin To Net: NetName=GPIO24 Pin=SC_1-12_1
+Added Pin To Net: NetName=GPIO24 Pin=SC_1-12_2
+Added Pin To Net: NetName=GPIO24 Pin=U1-36
+Added Net: Name=GPIO24
+Added Pin To Net: NetName=GPIO25 Pin=SC_1-13_1
+Added Pin To Net: NetName=GPIO25 Pin=SC_1-13_2
+Added Pin To Net: NetName=GPIO25 Pin=U1-37
+Added Net: Name=GPIO25
+Added Pin To Net: NetName=GPIO26 Pin=SC_1-14_1
+Added Pin To Net: NetName=GPIO26 Pin=SC_1-14_2
+Added Pin To Net: NetName=GPIO26 Pin=U1-38
+Added Net: Name=GPIO26
+Added Pin To Net: NetName=GPIO27 Pin=U1-39
+Added Net: Name=GPIO27
+Added Pin To Net: NetName=GPIO28 Pin=U1-40
+Added Net: Name=GPIO28
+Added Pin To Net: NetName=GPIO29 Pin=U1-41
+Added Net: Name=GPIO29
+Added Pin To Net: NetName=Net*_P Pin=*-P
+Added Pin To Net: NetName=Net*_P Pin=U3-5
+Added Net: Name=Net*_P
+Added Pin To Net: NetName=NetC12_2 Pin=U1-23
+Added Pin To Net: NetName=NetC12_2 Pin=U1-45
+Added Pin To Net: NetName=NetC12_2 Pin=U1-50
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC30_1 Pin=U2-1
+Added Net: Name=NetC30_1
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetC34_2 Pin=U3-8
+Added Net: Name=NetC34_2
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC36_2 Pin=U3-7
+Added Net: Name=NetC36_2
+Added Net: Name=NetC37_1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetJ2_02 Pin=J2-02
+Added Net: Name=NetJ2_02
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=L2-4
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=L3-4
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=L4-4
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=L5-4
+Added Net: Name=NetL4_2
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Pin To Net: NetName=NetL5_2 Pin=L6-4
+Added Net: Name=NetL5_2
+Added Pin To Net: NetName=NetL6_2 Pin=L6-2
+Added Pin To Net: NetName=NetL6_2 Pin=L7-4
+Added Net: Name=NetL6_2
+Added Pin To Net: NetName=NetL7_2 Pin=L7-2
+Added Pin To Net: NetName=NetL7_2 Pin=L8-4
+Added Net: Name=NetL7_2
+Added Pin To Net: NetName=NetL8_2 Pin=L8-2
+Added Pin To Net: NetName=NetL8_2 Pin=L9-4
+Added Net: Name=NetL8_2
+Added Pin To Net: NetName=NetL9_2 Pin=L9-2
+Added Pin To Net: NetName=NetL9_2 Pin=L10-4
+Added Net: Name=NetL9_2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=U1-26
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetR1_1 Pin=U1-47
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-46
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR5_2 Pin=SC_1-15_1
+Added Pin To Net: NetName=NetR5_2 Pin=SC_1-15_2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_1 Pin=SC_1-3_1
+Added Pin To Net: NetName=NetR6_1 Pin=SC_1-3_2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR9_2 Pin=U3-3
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_1 Pin=U3-1
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetSC_1_S1 Pin=SC_1-S1
+Added Pin To Net: NetName=NetSC_1_S1 Pin=SC_1-S2
+Added Pin To Net: NetName=NetSC_1_S1 Pin=SC_1-S3
+Added Pin To Net: NetName=NetSC_1_S1 Pin=SC_1-S4
+Added Net: Name=NetSC_1_S1
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Pin To Net: NetName=NetU2_5 Pin=U2-6
+Added Net: Name=NetU2_5
+Added Pin To Net: NetName=QPI_SD0 Pin=IC2-5
+Added Pin To Net: NetName=QPI_SD0 Pin=U1-53
+Added Net: Name=QPI_SD0
+Added Pin To Net: NetName=QPI_SD1 Pin=IC2-2
+Added Pin To Net: NetName=QPI_SD1 Pin=U1-55
+Added Net: Name=QPI_SD1
+Added Pin To Net: NetName=QPI_SD2 Pin=IC2-3
+Added Pin To Net: NetName=QPI_SD2 Pin=U1-54
+Added Net: Name=QPI_SD2
+Added Pin To Net: NetName=QPI_SD3 Pin=IC2-7
+Added Pin To Net: NetName=QPI_SD3 Pin=U1-51
+Added Net: Name=QPI_SD3
+Added Pin To Net: NetName=QPI_SD_CLK Pin=IC2-6
+Added Pin To Net: NetName=QPI_SD_CLK Pin=U1-52
+Added Net: Name=QPI_SD_CLK
+Added Pin To Net: NetName=QPI_SS Pin=IC2-1
+Added Pin To Net: NetName=QPI_SS Pin=U1-56
+Added Net: Name=QPI_SS
+Added Pin To Net: NetName=SCL/I2C1 Pin=U1-4
+Added Pin To Net: NetName=SCL/I2C1 Pin=U2-2
+Added Net: Name=SCL/I2C1
+Added Pin To Net: NetName=SDA/I2C0 Pin=U1-2
+Added Pin To Net: NetName=SDA/I2C0 Pin=U2-8
+Added Net: Name=SDA/I2C0
+Added Net: Name=USB_D_N
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=XIN Pin=IC3-1
+Added Pin To Net: NetName=XIN Pin=U1-20
+Added Net: Name=XIN
+Added Pin To Net: NetName=XOUT Pin=IC3-3
+Added Pin To Net: NetName=XOUT Pin=U1-21
+Added Net: Name=XOUT
+Added Class: Name=Controller
+Added Class: Name=Peripherals_1
+Added Class: Name=Peripherals_2

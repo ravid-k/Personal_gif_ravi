@@ -1,0 +1,39 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [PCB_Personal_Gif.PrjPcb]
+   Generated File[GIF_PCB_Copper_Signal_Top.gbr]
+   Generated File[GIF_PCB_Copper_Plane_1.gbr]
+   Generated File[GIF_PCB_Copper_Plane_2.gbr]
+   Generated File[GIF_PCB_Copper_Signal_Bot.gbr]
+   Generated File[GIF_PCB_Pads_Bot.gbr]
+   Generated File[GIF_PCB_Pads_Top.gbr]
+   Generated File[GIF_PCB_Legend_Top.gbr]
+   Generated File[GIF_PCB_Legend_Bot.gbr]
+   Generated File[GIF_PCB_Soldermask_Top.gbr]
+   Generated File[GIF_PCB_Soldermask_Bot.gbr]
+   Generated File[GIF_PCB_Paste_Top.gbr]
+   Generated File[GIF_PCB_Paste_Bot.gbr]
+   Generated File[GIF_PCB_Keep-out.gbr]
+   Generated File[GIF_PCB_Mechanical_1.gbr]
+   Generated File[GIF_PCB_Mechanical_13.gbr]
+   Generated File[GIF_PCB_Mechanical_15.gbr]
+   Generated File[GIF_PCB_Mechanical_31.gbr]
+   Generated File[GIF_PCB_Profile.gbr]
+   Generated File[GIF_PCB_NPTH_Drill.gbr]
+   Generated File[GIF_PCB_PTH_Drill.gbr]
+   Generated File[GIF_PCB_Plated_Drill_1_2.gbr]
+   Generated File[GIF_PCB_Plated_Drill_1_3.gbr]
+   Generated File[GIF_PCB_Drawing_1.gbr]
+   Generated File[GIF_PCB_Drawing_2.gbr]
+   Generated File[GIF_PCB_Drawing_3.gbr]
+   Generated File[GIF_PCB_Drillmap_1.gbr]
+   Generated File[GIF_PCB_Drillmap_2.gbr]
+   Generated File[GIF_PCB_Drillmap_3.gbr]
+   Generated File[GIF_PCB.EXTREP]
+   Generated File[GIF_PCB.REP]
+
+
+Files Generated   : 30
+Documents Printed : 0
+
+Finished Output Generation At 15:56:21 On 07/08/2024

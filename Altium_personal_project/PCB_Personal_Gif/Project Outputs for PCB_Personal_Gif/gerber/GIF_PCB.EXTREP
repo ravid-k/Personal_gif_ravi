@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: GIF_PCB.GBR   07/08/2024  15:56:08
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                GND                                     
+.gbr                VCC                                     
+.gbr                Bottom Layer                            
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Top Overlay                             
+.gbr                Bottom Overlay                          
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Keep-Out Layer                          
+.gbr                Mechanical 1                            
+.gbr                Mechanical 13                           
+.gbr                Mechanical 15                           
+.gbr                Mechanical 31                           
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------

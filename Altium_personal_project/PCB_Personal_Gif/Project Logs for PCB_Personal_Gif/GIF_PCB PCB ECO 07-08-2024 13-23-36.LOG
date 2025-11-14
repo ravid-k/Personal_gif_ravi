@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=5V Pin=IC1-3
+Change Component Description : Designator=S1 Old Description= New Description=AS01508MS-SC11-WP-R speaker,0.7 INPUT PWR, 60-20K dB frequency.
+Change Component Description : Designator=SC_1 Old Description= New Description=Character Liquid Crystal Display Module.+5.0V INPUT Power
+Change Component Description : Designator=U2 Old Description= New Description=Proximity Sensors INTEGRATED PROXIMITY + IR LED.
+Change Component Description : Designator=U1 Old Description= New Description=rp2040 rapberri Pi Microcontroller
+Change Component Description : Designator=U3 Old Description=No Description Available New Description=IC AMP CLASS AB MONO 325MW 8SOIC.AUDIO AMPLIFIER
+Change Net Name : Old Net Name=Net*_P New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetC18_1 New Net Name=XOUT
+Added Member To Class: ClassName=Controller Member=Component C_11 0.1 µF
