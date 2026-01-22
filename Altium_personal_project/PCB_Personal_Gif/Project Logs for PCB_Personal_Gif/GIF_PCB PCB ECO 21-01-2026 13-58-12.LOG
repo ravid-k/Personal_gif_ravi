@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=J3-01
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Member From Class: ClassName=Controller Member=P1
+Change Component Footprint: Designator=J3 Old Footprint=PHOENIX_1933189 New Footprint=2PH102UASMTB
+Change Component Comment : Designator=J3 Old Comment=2_pin_header New Comment=2PH1-02-UA-SMT-B
+Change component parameters: Designator = "J3" ("J3"); Footprint = "PHOENIX_1933189"; UniqueID = "\GXWBEMVZ" ("\GXWBEMVZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "2PH1-02-UA-SMT-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2ph1-02-ua-smt-b/adam-tech?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/9f680ad2dadff3b0200287e04b69ceab.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2PH1-02-UA-SMT-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "737-2PH1-02-UA-SMT-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Adam-Tech/2PH1-02-UA-SMT-B?qs=HoCaDK9Nz5ctaJuvgnyAoA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Ps1(430182043816)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/catalog/datasheet/430182043816.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "430182043816"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-430182043816"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/430182043816?qs=wr8lucFkNMVm%252BwK7rSM84A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=Ps1-1
+Added Pin To Net: NetName=GND Pin=Ps1-3
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R3-1
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetPs1_2 Pin=Ps1-2
+Added Pin To Net: NetName=NetPs1_2 Pin=U1-26
+Added Net: Name=NetPs1_2
+Added Pin To Net: NetName=NetPs1_4 Pin=Ps1-4
+Added Pin To Net: NetName=NetPs1_4 Pin=R13-2
+Added Net: Name=NetPs1_4
+Added Member To Class: ClassName=Controller Member=Component Ps1 430182043816

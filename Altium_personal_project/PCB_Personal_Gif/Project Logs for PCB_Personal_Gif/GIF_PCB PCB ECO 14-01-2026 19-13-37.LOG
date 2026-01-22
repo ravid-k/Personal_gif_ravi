@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=QPI_SD_CLK Pin=IC5-6
+Removed Pin From Net: NetName=QPI_SD_CLK Pin=R_QP-2
+Added Pin To Net: NetName=QPI_SD_CLK Pin=R_QP-1
+Added Pin To Net: NetName=NetIC5_6 Pin=IC5-6
+Added Pin To Net: NetName=NetIC5_6 Pin=R_QP-2
+Added Net: Name=NetIC5_6

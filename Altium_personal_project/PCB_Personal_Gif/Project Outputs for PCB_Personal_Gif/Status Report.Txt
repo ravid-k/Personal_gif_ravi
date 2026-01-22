@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [PCB_Personal_Gif.PrjPcb]
+   Generated File[Pick Place for GIF_PCB.txt]
+   Generated File[Pick Place for GIF_PCB.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 15:55:17 On 21-01-2026

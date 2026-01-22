@@ -1,0 +1,39 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Personal_Gif.PrjPcb]
+   Generated File[GIF_PCB.GTO]
+   Generated File[GIF_PCB.GTP]
+   Generated File[GIF_PCB.GTS]
+   Generated File[GIF_PCB.GTL]
+   Generated File[GIF_PCB.G1]
+   Generated File[GIF_PCB.G2]
+   Generated File[GIF_PCB.GBL]
+   Generated File[GIF_PCB.GBS]
+   Generated File[GIF_PCB.GBP]
+   Generated File[GIF_PCB.GBO]
+   Generated File[GIF_PCB.GM1]
+   Generated File[GIF_PCB.GM13]
+   Generated File[GIF_PCB.GM15]
+   Generated File[GIF_PCB.GM31]
+   Generated File[GIF_PCB.GKO]
+   Generated File[GIF_PCB.GPT]
+   Generated File[GIF_PCB.GPB]
+   Generated File[GIF_PCB.3]
+   Generated File[GIF_PCB.1]
+   Generated File[GIF_PCB.2]
+   Generated File[GIF_PCB.GML]
+   Generated File[GIF_PCB.GD1]
+   Generated File[GIF_PCB.GD2]
+   Generated File[GIF_PCB.GD3]
+   Generated File[GIF_PCB.GG1]
+   Generated File[GIF_PCB.GG2]
+   Generated File[GIF_PCB.GG3]
+   Generated File[GIF_PCB.GM]
+   Generated File[GIF_PCB.EXTREP]
+   Generated File[GIF_PCB.REP]
+
+
+Files Generated   : 30
+Documents Printed : 0
+
+Finished Output Generation At 15:48:13 On 21-01-2026

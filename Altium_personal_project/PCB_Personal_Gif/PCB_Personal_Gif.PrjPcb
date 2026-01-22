@@ -136,128 +136,265 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=Power_Architecture.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BUESXZRJ
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PCB_Personal_Gif\Design Rule Check - GIF_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.EXTREP
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.1
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.REP
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.2
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Copper_Plane_1.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.3
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Copper_Plane_2.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Drawing_1.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Drawing_2.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Drawing_3.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Drillmap_1.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Drillmap_2.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Drillmap_3.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GD2
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Keep-out.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GD3
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Legend_Bot.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Legend_Top.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GG2
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Mechanical_1.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GG3
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Mechanical_13.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Mechanical_15.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GM
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Mechanical_31.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_NPTH_Drill.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Pads_Bot.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Pads_Top.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GM31
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Paste_Bot.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GML
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Paste_Top.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Plated_Drill_1_2.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Plated_Drill_1_3.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Profile.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_PTH_Drill.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument31]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Copper_Plane_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Copper_Plane_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Drawing_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Drawing_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Drillmap_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Drillmap_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Mechanical_31.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Plated_Drill_1_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Plated_Drill_1_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
 DocumentPath=Project Outputs for PCB_Personal_Gif\GIF_PCB_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for PCB_Personal_Gif\Pick Place for GIF_PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for PCB_Personal_Gif\Pick Place for GIF_PCB.txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -490,98 +627,111 @@ Name=Assembly Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Assembly
-OutputName1=Assembly Drawings
+OutputType1=Test Points For Assembly
+OutputName1=Test Point Report
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=Pick Place
-OutputName2=Generates pick and place files
+OutputType2=Wire Bonding Table
+OutputName2=Wire Bonding Table Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Test Points For Assembly
-OutputName3=Test Point Report
+OutputType3=Assembly
+OutputName3=Assembly Drawings
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Pick Place
+OutputName4=Generates pick and place files
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+Configuration4_Name1=ForceUpdateSettings
+Configuration4_Item1=False
+Configuration4_Name2=OutputConfigurationParameter1
+Configuration4_Item2=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=True|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Package / Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66,Type:0|Column#18=Name:RefDes,Fixed:False,Metric:False,Visible:False,Sort:None,Position:77,Type:0|Column#19=Name:Current - Test,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#20=Name:Height - Seated (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#21=Name:Configuration,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#22=Name:Number of Terminations,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64,Type:0|Column#23=Name:Voltage - Rated,Fixed:False,Metric:False,Visible:False,Sort:None,Position:99,Type:0|Column#24=Name:Inductance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#25=Name:Surface Mount Land Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:88,Type:0|Column#26=Name:Mfr_Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#27=Name:Voltage - Clamping (Max) @ Ipp,Fixed:False,Metric:False,Visible:False,Sort:None,Position:97,Type:0|Column#28=Name:Impedance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#29=Name:Lifetime @ Temp.,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#30=Name:Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68,Type:0|Column#31=Name:Minimum Order,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#32=Name:Connector Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#33=Name:Bidirectional Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#34=Name:Part Status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69,Type:0|Column#35=Name:Power (Watts),Fixed:False,Metric:False,Visible:False,Sort:None,Position:73,Type:0|Column#36=Name:Lens Style,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#37=Name:Current - Peak Pulse (10/1000µs),Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#38=Name:Manufacturer_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#39=Name:Ratings,Fixed:False,Metric:False,Visible:False,Sort:None,Position:76,Type:0|Column#40=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67,Type:0|Column#41=Name:Applications,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#42=Name:Lens Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#43=Name:Thickness (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:91,Type:0|Column#44=Name:Gender,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#45=Name:Current Rating (Amps),Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#46=Name:DC Resistance (DCR),Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#47=Name:Height (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#48=Name:Polarization,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71,Type:0|Column#49=Name:Voltage - Forward (Vf) (Typ),Fixed:False,Metric:False,Visible:False,Sort:None,Position:98,Type:0|Column#50=Name:Wavelength - Dominant,Fixed:False,Metric:False,Visible:False,Sort:None,Position:101,Type:0|Column#51=Name:Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78,Type:0|Column#52=Name:Current - Saturation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#53=Name:Size / Dimension,Fixed:False,Metric:False,Visible:False,Sort:None,Position:83,Type:0|Column#54=Name:Power Line Protection,Fixed:False,Metric:False,Visible:False,Sort:None,Position:74,Type:0|Column#55=Name:Number of Ports,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63,Type:0|Column#56=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:85,Type:0|Column#57=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:92,Type:0|Column#58=Name:Lifecycle Status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#59=Name:Mouser Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60,Type:0|Column#60=Name:Viewing Angle,Fixed:False,Metric:False,Visible:False,Sort:None,Position:95,Type:0|Column#61=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:87,Type:0|Column#62=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#63=Name:Material - Core,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#64=Name:Mating Cycles,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#65=Name:Number of Contacts,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62,Type:0|Column#66=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#67=Name:Supplier Device Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:86,Type:0|Column#68=Name:Arrow Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#69=Name:Millicandela Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#70=Name:Lens Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#71=Name:Voltage - Breakdown (Min),Fixed:False,Metric:False,Visible:False,Sort:None,Position:96,Type:0|Column#72=Name:LastUpdated,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#73=Name:Ripple Current @ Low Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:80,Type:0|Column#74=Name:Shielding,Fixed:False,Metric:False,Visible:False,Sort:None,Position:82,Type:0|Column#75=Name:Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:93,Type:0|Column#76=Name:Mounting Feature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#77=Name:Device Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#78=Name:Manufacturer_Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#79=Name:Composition,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#80=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#81=Name:Arrow Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#82=Name:Termination,Fixed:False,Metric:False,Visible:False,Sort:None,Position:90,Type:0|Column#83=Name:Temperature Coefficient,Fixed:False,Metric:False,Visible:False,Sort:None,Position:89,Type:0|Column#84=Name:Power - Peak Pulse,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72,Type:0|Column#85=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#86=Name:Datasheet Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#87=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#88=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:94,Type:0|Column#89=Name:Ripple Current @ High Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:79,Type:0|Column#90=Name:Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#91=Name:Series,Fixed:False,Metric:False,Visible:False,Sort:None,Position:81,Type:0|Column#92=Name:Mouser Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61,Type:0|Column#93=Name:Voltage - Reverse Standoff (Typ),Fixed:False,Metric:False,Visible:False,Sort:None,Position:100,Type:0|Column#94=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#95=Name:Features,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#96=Name:Specifications,Fixed:False,Metric:False,Visible:False,Sort:None,Position:84,Type:0|Column#97=Name:Mounting Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#98=Name:PartId,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70,Type:0|Column#99=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#100=Name:Inductance Frequency - Test,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#101=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75,Type:0|Column#102=Name:Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65,Type:0|DocumentPath=C:\Users\Ravi_\OneDrive\Desktop\Altium_projects\Personal_gif_ravi\Altium_personal_project\PCB_Personal_Gif\GIF_PCB.PcbDoc
 
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=CompositeDrill
-OutputName1=Composite Drill Drawing
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
-OutputVariantName1=[No Variations]
+OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=Drill
-OutputName2=Drill Drawing/Guides
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Board Stack Report
-OutputName3=Report Board Stack
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
-OutputVariantName3=
+OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Gerber X2
-OutputName5=Gerber X2 Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-Configuration5_Name1=ForceUpdateSettings
-Configuration5_Item1=False
-Configuration5_Name2=OutputConfigurationParameter1
-Configuration5_Item2=BoardID=BXNPEDWE|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPair0_Backdrill=False|PlotBlindViasPair0_Checked=True|PlotBlindViasPair0_DrillType=Regular|PlotBlindViasPair0_FileName= |PlotBlindViasPair0_HighLayer=Internal Plane 1|PlotBlindViasPair0_LowLayer=Top Layer|PlotBlindViasPair1_Backdrill=False|PlotBlindViasPair1_Checked=True|PlotBlindViasPair1_DrillType=Regular|PlotBlindViasPair1_FileName= |PlotBlindViasPair1_HighLayer=Internal Plane 2|PlotBlindViasPair1_LowLayer=Top Layer|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_Checked=True|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_FileName= |PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair1_Backdrill=False|PlotDrillDrawingPair1_Checked=True|PlotDrillDrawingPair1_DrillType=Regular|PlotDrillDrawingPair1_FileName= |PlotDrillDrawingPair1_HighLayer=Internal Plane 1|PlotDrillDrawingPair1_LowLayer=Top Layer|PlotDrillDrawingPair2_Backdrill=False|PlotDrillDrawingPair2_Checked=True|PlotDrillDrawingPair2_DrillType=Regular|PlotDrillDrawingPair2_FileName= |PlotDrillDrawingPair2_HighLayer=Internal Plane 2|PlotDrillDrawingPair2_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_Checked=True|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_FileName= |PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair1_Backdrill=False|PlotDrillGuidePair1_Checked=True|PlotDrillGuidePair1_DrillType=Regular|PlotDrillGuidePair1_FileName= |PlotDrillGuidePair1_HighLayer=Internal Plane 1|PlotDrillGuidePair1_LowLayer=Top Layer|PlotDrillGuidePair2_Backdrill=False|PlotDrillGuidePair2_Checked=True|PlotDrillGuidePair2_DrillType=Regular|PlotDrillGuidePair2_FileName= |PlotDrillGuidePair2_HighLayer=Internal Plane 2|PlotDrillGuidePair2_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842753~1,16842754~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908301~1,16908303~1,16908319~1,16973837~1,16973848~1,16973849~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|DocumentPath=C:\Users\Ravi Kumar\OneDrive - TDK Management Services GmbH - Mitai\Desktop\Altium_personal_project\PCB_Personal_Gif\GIF_PCB.PcbDoc
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Mask
-OutputName7=Solder/Paste Mask Prints
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=NC Drill
-OutputName8=NC Drill Files
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
-OutputVariantName8=
+OutputVariantName8=[No Variations]
 OutputDefault8=0
-OutputType9=IPC2581
-OutputName9=IPC-2581 Files
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
-OutputVariantName9=[No Variations]
+OutputVariantName9=
 OutputDefault9=0
-OutputType10=Plane
-OutputName10=Power-Plane Prints
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Test Points
-OutputName11=Test Point Report
+Configuration10_Name1=ForceUpdateSettings
+Configuration10_Item1=False
+Configuration10_Name2=OutputConfigurationParameter1
+Configuration10_Item2=BoardID=BXNPEDWE|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPair0_Backdrill=False|PlotBlindViasPair0_Checked=True|PlotBlindViasPair0_DrillType=Regular|PlotBlindViasPair0_FileName= |PlotBlindViasPair0_HighLayer=Internal Plane 1|PlotBlindViasPair0_LowLayer=Top Layer|PlotBlindViasPair1_Backdrill=False|PlotBlindViasPair1_Checked=True|PlotBlindViasPair1_DrillType=Regular|PlotBlindViasPair1_FileName= |PlotBlindViasPair1_HighLayer=Internal Plane 2|PlotBlindViasPair1_LowLayer=Top Layer|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_Checked=True|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_FileName= |PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair1_Backdrill=False|PlotDrillDrawingPair1_Checked=True|PlotDrillDrawingPair1_DrillType=Regular|PlotDrillDrawingPair1_FileName= |PlotDrillDrawingPair1_HighLayer=Internal Plane 1|PlotDrillDrawingPair1_LowLayer=Top Layer|PlotDrillDrawingPair2_Backdrill=False|PlotDrillDrawingPair2_Checked=True|PlotDrillDrawingPair2_DrillType=Regular|PlotDrillDrawingPair2_FileName= |PlotDrillDrawingPair2_HighLayer=Internal Plane 2|PlotDrillDrawingPair2_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_Checked=True|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_FileName= |PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair1_Backdrill=False|PlotDrillGuidePair1_Checked=True|PlotDrillGuidePair1_DrillType=Regular|PlotDrillGuidePair1_FileName= |PlotDrillGuidePair1_HighLayer=Internal Plane 1|PlotDrillGuidePair1_LowLayer=Top Layer|PlotDrillGuidePair2_Backdrill=False|PlotDrillGuidePair2_Checked=True|PlotDrillGuidePair2_DrillType=Regular|PlotDrillGuidePair2_FileName= |PlotDrillGuidePair2_HighLayer=Internal Plane 2|PlotDrillGuidePair2_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842753~1,16842754~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908301~1,16908303~1,16908319~1,16973837~1,16973848~1,16973849~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|DocumentPath=C:\Users\Ravi Kumar\OneDrive - TDK Management Services GmbH - Mitai\Desktop\Altium_personal_project\PCB_Personal_Gif\GIF_PCB.PcbDoc
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=BXNPEDWE|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set="All Layers","Component Layers","Signal Layers","Electrical Layers"|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908301~1,16908303~1,16908319~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillDrawingLayerPair1_Backdrill=False|PlotDrillDrawingLayerPair1_Checked=True|PlotDrillDrawingLayerPair1_DrillType=Regular|PlotDrillDrawingLayerPair1_FileName= |PlotDrillDrawingLayerPair1_HighLayer=Mid Layer 1|PlotDrillDrawingLayerPair1_LowLayer=Top Layer|PlotDrillDrawingLayerPair2_Backdrill=False|PlotDrillDrawingLayerPair2_Checked=True|PlotDrillDrawingLayerPair2_DrillType=Regular|PlotDrillDrawingLayerPair2_FileName= |PlotDrillDrawingLayerPair2_HighLayer=Mid Layer 2|PlotDrillDrawingLayerPair2_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair1_Backdrill=False|PlotDrillGuideLayerPair1_Checked=True|PlotDrillGuideLayerPair1_DrillType=Regular|PlotDrillGuideLayerPair1_FileName= |PlotDrillGuideLayerPair1_HighLayer=Mid Layer 1|PlotDrillGuideLayerPair1_LowLayer=Top Layer|PlotDrillGuideLayerPair2_Backdrill=False|PlotDrillGuideLayerPair2_Checked=True|PlotDrillGuideLayerPair2_DrillType=Regular|PlotDrillGuideLayerPair2_FileName= |PlotDrillGuideLayerPair2_HighLayer=Mid Layer 2|PlotDrillGuideLayerPair2_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Ravi_\OneDrive\Desktop\Altium_projects\Personal_gif_ravi\Altium_personal_project\PCB_Personal_Gif\GIF_PCB.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -594,6 +744,24 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=EUR|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Designator=100|Comment=100|Description=100|Quantity=67|Manufacturer 1=141|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=146|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Name7=VisibleOrder_Base
+Configuration1_Item7=Designator=100|Comment=100|Description=100|Quantity=67|Manufacturer 1=141|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=146|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Name8=VisibleOrder_Consolidated
+Configuration1_Item8=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=141|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=146|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Name9=VisibleOrder_Flat
+Configuration1_Item9=Line #=100|Comment=100|Description=100|Designator=100|Manufacturer 1=141|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=146|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -922,6 +1090,7 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
+Type151=1
 
 [Difference Levels]
 Type1=1
@@ -1005,6 +1174,7 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
+Type82=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1160,6 +1330,14 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
+Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
